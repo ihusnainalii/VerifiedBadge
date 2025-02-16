@@ -13,7 +13,7 @@
 Simply add the `VerifiedBadge` struct to your SwiftUI project and use it as a reusable component.
 
 ## Preview
-![Screenshot](https://github.com/ihusnainalii/VerifiedBadge/blob/main/screenshot/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max.png)
+<img width="100" alt="Screenshot" src="https://github.com/ihusnainalii/VerifiedBadge/blob/main/screenshot/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max.png"> 
 
 ## Usage
 ```swift
